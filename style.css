@@ -1,6 +1,3 @@
-background: no-repeat url("image/background texture.jpg");
-
-
 h1, h2 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
@@ -30,7 +27,7 @@ div {
 }
 
 .my-photo {
-  size: 500px;
+  size: 1000px;
   text-align: center;
   background-color: white;
 }
