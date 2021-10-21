@@ -1,37 +1,39 @@
 h1, h2 {
-  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-  text-align: center;
-  color: rgb(146, 0, 0);
-}
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(146, 0, 0);
+  }
+  
+  
+  h1 {
+    font-size: 35px;
+  }
+  
+  .intro {
+    color: rgb(146, 0, 0);
+    text-align: center;
+  }
+  
+  h2, p, ul {
+    color: rgb(38, 36, 165);
+  }
+  
+  p {
+    font-size: 20px;
+  }
+  
+  div {
+    background-color: rgb(56, 0, 109);
+  }
+  
+  .my-photo {
+    size: 1000px;
+    text-align: center;
+    background-color: white;
+  }
+  
+  ul {
+   font-size: 16px;
+  }
 
-
-h1 {
-  font-size: 35px;
-}
-
-.intro {
-  color: rgb(146, 0, 0);
-  text-align: center;
-}
-
-h2, p, ul {
-  color: rgb(38, 36, 165);
-}
-
-p {
-  font-size: 20px;
-}
-
-div {
-  background-color: rgb(56, 0, 109);
-}
-
-.my-photo {
-  size: 1000px;
-  text-align: center;
-  background-color: white;
-}
-
-ul {
- font-size: 16px;
-}
+  background-image: no-repeat url("image/background-texture.jpg");
