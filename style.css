@@ -39,6 +39,6 @@ h1, h2, .intro {
 
   
   article {
-   margin-left: 210px;
-   font-size: 16px;
+    padding-left: 22%;
+    font-size: 16px;
   }
