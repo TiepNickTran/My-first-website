@@ -53,3 +53,15 @@ h1, h2, h3, .intro {
     margin-bottom: 25px;
 	  background-image: url("image/divider.png");
 }
+
+  ol {
+    padding-left: 32%;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 129, 28);
+    font-weight: bold;
+    font-size: 18px;
+  }
+
+  iframe {
+    padding-left: 30%;
+  }
