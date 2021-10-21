@@ -1,18 +1,36 @@
-h1, p {
+h1, h2 {
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   text-align: center;
-  color: rgb(255, 255, 255);
+  color: rgb(146, 0, 0);
 }
 
 
 h1 {
-  font-size: 55px;
+  font-size: 35px;
+}
+
+.intro {
+  color: rgb(146, 0, 0);
+  text-align: center;
+}
+
+h2, p, ul {
+  color: rgb(38, 36, 165);
 }
 
 p {
-  font-size: 25px;
+  font-size: 20px;
 }
 
 div {
   background-color: rgb(56, 0, 109);
+}
+
+.my-photo {
+  size: 1000px;
+  text-align: center;
+}
+
+ul {
+ 
 }
