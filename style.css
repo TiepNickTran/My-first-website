@@ -2,6 +2,8 @@ h1, h2, .intro {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     text-align: center;
     color: white;
+    margin-top: 30px;
+    padding-top: 25px;
   }
   
   
@@ -17,19 +19,26 @@ h1, h2, .intro {
     font-size: 20px;
   }
   
-  div {
+  .name-titles {
     background-color: rgb(56, 0, 109);
   }
   
-  .my-photo {
-    size: 450px;
-    text-align: center;
-    background-color: white;
-  }
-  
-  ul, p {
-   margin left: 100px;
-   font-size: 16px;
+  .intro {
+    padding-bottom: 20px;
   }
 
-  background-image: no-repeat url("image/background-texture.jpg");
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 65%;
+    height: auto;
+    border-radius: 50px;
+    background-color: white;
+  }
+
+  
+  article {
+   margin-left: 210px;
+   font-size: 16px;
+  }
