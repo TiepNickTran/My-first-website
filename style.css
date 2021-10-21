@@ -41,7 +41,7 @@ h1, h2, h3, .intro {
 
   
   article, .about {
-    padding-left: 39%;
+    padding-left: 43%;
     font-size: 17px;
   }
 
@@ -55,7 +55,7 @@ h1, h2, h3, .intro {
 }
 
   ol {
-    padding-left: 39%;
+    padding-left: 43%;
     font-family: 'Courier New', Courier, monospace;
     color: rgb(0, 129, 28);
     font-weight: bold;
@@ -63,5 +63,5 @@ h1, h2, h3, .intro {
   }
 
   iframe {
-    padding-left: 39%;
+    padding-left: 43%;
   }
